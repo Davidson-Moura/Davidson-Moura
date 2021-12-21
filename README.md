@@ -10,8 +10,10 @@
 <div>
   <a href="https://api.whatsapp.com/send?phone=5521984603443"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCffwPRMYQpYF3rE-5Latf1A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davidson-moura-a1b8b9185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.davidson-maytel.online/"><img src="https://img.shields.io/badge/-Site-4285F4?style=for-the-badge&logoColor=white"></a>
 </div>
-<a href="https://www.youtube.com/channel/UCffwPRMYQpYF3rE-5Latf1A"><img src="https://starchart.cc/{Davidson-Moura}/{Davidson-Moura}.svg"></a>
+
 
 
 <!--
