@@ -15,5 +15,5 @@
 </div>
 
 <div>
-  <img width="4em" src="https://www.davidson-maytel.online/img/MeuGif.gif">
+  <img width="8em" src="https://www.davidson-maytel.online/img/MeuGif.gif">
 </div>
