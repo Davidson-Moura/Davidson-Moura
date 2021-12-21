@@ -1,9 +1,10 @@
 ### Olá bem vindo ao meu repositório👋
 
 <div>
-  <a href="https://www.davidson-maytel.online/">🌎 Meu Site<a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidson-Moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson-Moura&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://www.davidson-maytel.online/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidson-Moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson-Moura&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 <!--
