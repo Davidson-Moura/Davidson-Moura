@@ -9,7 +9,10 @@
 
 <div>
   <a href="https://api.whatsapp.com/send?phone=5521984603443"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCffwPRMYQpYF3rE-5Latf1A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
+<a href="https://www.youtube.com/channel/UCffwPRMYQpYF3rE-5Latf1A"><img src="https://starchart.cc/{Davidson-Moura}/{Davidson-Moura}.svg"></a>
+
 
 <!--
 **Davidson-Moura/Davidson-Moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
