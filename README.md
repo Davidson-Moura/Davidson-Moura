@@ -5,13 +5,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidson-Moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidson-Moura&layout=compact&langs_count=7&theme=dark"/>
   </a>
-
-  <span>
-    <img width="120em" src="https://www.davidson-maytel.online/img/MeuGif.gif">
-  </span>
 </div>
 
 <div>
+  <span>
+    <img width="120em" src="https://www.davidson-maytel.online/img/MeuGif.gif">
+  </span>
   <a href="https://api.whatsapp.com/send?phone=5521984603443"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCffwPRMYQpYF3rE-5Latf1A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/davidson-moura-a1b8b9185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
